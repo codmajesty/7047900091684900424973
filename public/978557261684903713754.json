@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283691928091",
+    "project_id": "pastel-aesthetic",
+    "storage_bucket": "pastel-aesthetic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283691928091:android:620c93196ea747344fc6be",
+        "android_client_info": {
+          "package_name": "com.juhaylivewallpaper.PastelWallpaper.pastel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283691928091-e10uqkcklc6os9i23ir47plit98si10m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDms3Y0zZWqGR18Vr0UYoVPBWo0vlR9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283691928091-e10uqkcklc6os9i23ir47plit98si10m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
